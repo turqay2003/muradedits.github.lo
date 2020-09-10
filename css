@@ -1,0 +1,26 @@
+#textbody {
+    text-align:center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color:white;
+    transform:translate(-50%,-50%);
+    font-size:normal;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.fa{
+    padding:20px;
+    font-size: 25px;
+    widows: 25px;
+    text-align:center;
+    text-decoration:none;
+    margin:5px 2px;
+    border-radius: 100%;
+
+    background:grey;
+    color:white
+}
+.fa:hover {
+    opacity:0.7;
+}
